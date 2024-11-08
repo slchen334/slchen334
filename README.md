@@ -8,4 +8,4 @@
 :cat2: 輔大老師 \
 
 ## 信箱
-:cart2: slchen@mail.fju.edu.tw \
+:cat2: slchen@mail.fju.edu.tw \
